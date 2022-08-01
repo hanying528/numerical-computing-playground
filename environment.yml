@@ -1,0 +1,11 @@
+name: computing-is-fun
+channels:
+  - conda-forge
+dependencies:
+  - python ==3.7.*
+  - jupyterlab
+  - numba
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
